@@ -1,6 +1,6 @@
 # HTML5.1 details cross browser support
 
-Adds support for HTML5.1 [`<details>`](http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-details-element)/[`<summary>`(http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-summary-element) using a polyfill, ready to use in most browsers.
+Adds support for HTML5.1 [`<details>`](http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-details-element)/[`<summary>`](http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-summary-element) using a polyfill, ready to use in most browsers.
 
 ## How to use
 
