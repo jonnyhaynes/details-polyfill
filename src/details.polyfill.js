@@ -1,7 +1,7 @@
 /**
  * HTML5 <details> crossbrowser support
  *
- * Adds support for HTML5 `<details>`/`<summary>` using a polyfill,
+ * Adds support for HTML5.1 `<details>`/`<summary>` using a polyfill,
  * ready to use in most browsers.
  *
  * @author Manuel Bieh & Jonny Haynes
