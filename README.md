@@ -1,4 +1,4 @@
-# HTML5 details cross browser support
+# HTML5.1 details cross browser support
 
 Adds support for HTML5.1 [`<details>`/`<summary>`](http://dev.w3.org/html5/spec/Overview.html#the-details-element) using a polyfill, ready to use in most browsers.
 
